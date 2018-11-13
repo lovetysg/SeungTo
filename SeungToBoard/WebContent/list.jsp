@@ -6,7 +6,7 @@
 <!-- //컨텐츠 -->
 <div id="l-container">
 	<div class="l-contents">
-	<h1 class="title">게시판</h1>
+	<h1 class="title">게시판.ver1</h1>
 	
 	<table class="tbl-list">
 		<tr>
