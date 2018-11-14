@@ -1,2 +1,0 @@
-# SeungTo!
-Good Game!
