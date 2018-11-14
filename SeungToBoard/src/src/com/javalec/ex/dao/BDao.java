@@ -33,7 +33,7 @@ public class BDao {
 		// TODO Auto-generated method stub
 		
 		Connection connection = null;
-		PreparedStatement preparedStatement = null;
+		PreparedStatement preparedStatement = null;sdfgsdfgsdfgsdfg
 
 		try {
 			connection = dataSource.getConnection();
